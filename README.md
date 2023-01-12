@@ -2,6 +2,8 @@
 
 My name is Rafael Ceara and I'm a Systems Architect currently working at Cisco Systems.
 
+I'm a Network engineer by heart. Love what I do and I always keep hungry, learning something new. I will share here any hacks, configs & projects to serve Cisco and the open-source community
+
 - 🔭 I’m currently working on Enterprise Networking projects but have a huge passion for Linux and Open Source Projects.
 - 🌱 I’m currently learning a lot about Cloud Orchestration and Containers.
 - 👯 I’m looking to collaborate more with the Open Source community sharing content and material I develop.
